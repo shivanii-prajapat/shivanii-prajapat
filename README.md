@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Shivani Prajapat 👩‍💻
 
-<!--
-**shivanii-prajapat/shivanii-prajapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA (Data Science) Student – Suresh Gyan Vihar University, Jaipur  
+💻 Aspiring Web Developer | Frontend Enthusiast  
+📊 Interested in Web Development and Data Science  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+HTML  
+CSS  
+Python  
+C  
+Git & GitHub  
+
+
+## 📚 Currently Learning
+JavaScript  
+Responsive Web Design  
+Frontend Development Best Practices  
+
+
+## 📂 Projects
+
+🔹 **Web Development Learning Website**  
+A beginner-friendly platform that teaches HTML, CSS, and JavaScript basics.
+
+🔹 **Indian Heritage Audio App (MVP)**  
+QR-code based storytelling system to explore Indian historical places through short audio stories.
+
+
+## 🎯 Goals
+• Become a strong Full-Stack Developer  
+• Contribute to Open Source  
+• Secure a high-impact Web Development Internship  
+
+
+## 📫 Contact
+📧 Email: shiv.ani.7.prajapat@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/shivani-prajapat-123hh)
