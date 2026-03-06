@@ -36,4 +36,4 @@ QR-code based storytelling system to explore Indian historical places through sh
 
 ## 📫 Contact
 📧 Email: shiv.ani.7.prajapat@gmail.com  
-🔗 LinkedIn: (https://linkedin.com/in/shivani-prajapat-123hh)
+🔗 LinkedIn: https://linkedin.com/in/shivani-prajapat-123hh
