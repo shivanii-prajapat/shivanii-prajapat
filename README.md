@@ -9,7 +9,6 @@
 HTML  
 CSS  
 Python, SQL  
-
 Git & GitHub  
 
 
