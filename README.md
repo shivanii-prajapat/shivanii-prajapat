@@ -8,8 +8,8 @@
 ## 🚀 Skills
 HTML  
 CSS  
-Python  
-SQL
+Python, SQL  
+
 Git & GitHub  
 
 
